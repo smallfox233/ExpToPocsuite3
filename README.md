@@ -9,6 +9,7 @@
 ```
 1. goby导出的pocsuite脚本文件名与.json中的第一个参数Name相同
 2. goby导出的pocsuite脚本末尾将会附上原先的goby脚本内容以便后续的手动修改
+3. goby的自定义exp脚本路径为/golib/exploits/user
 ```
 
 **缺点：**
