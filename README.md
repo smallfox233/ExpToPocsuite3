@@ -37,7 +37,7 @@
 ExpToPocsuite3 -h
 ```
 
-![](img/1.png)
+![](1.png)
 
 `-g`设置指定的goby脚本目录位置，设置后将会读取该目录下所有的`.json`后缀文件（不包括其子目录）
 
@@ -47,9 +47,9 @@ ExpToPocsuite3 -h
 ExpToPocsuite3 -g Template -p new
 ```
 
-![](img/2.png)
+![](2.png)
 
 
 
-![](img/3.png)
+![](3.png)
 
